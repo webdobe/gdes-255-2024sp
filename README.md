@@ -10,18 +10,6 @@ This project involves breaking down a provided Adobe Illustrator file into HTML 
 - A code editor (like Visual Studio Code)
 - GitHub Desktop
 
-### Cloning the Project
-To get started, you will need to clone the project repository from GitHub. Use the following terminal commands:
-
-# Navigate to GitHub Directory
-`cd ~/Documents/GitHub`
-
-# Clone the repository
-`git clone https://github.com/nic-gdes/gdes-255-2024sp.git`
-
-# Navigate to the project directory
-`cd gdes-255-2024sp`
-
 ### Project Structure
 The index.html file is the main HTML document.
 The styles.css file contains CSS for styling the webpage.
