@@ -1,4 +1,4 @@
-# Project Title
+# GDES 255 Spring Midterm
 
 ## Overview
 This project involves breaking down a provided Adobe Illustrator file into HTML and CSS components. The purpose is to teach the fundamentals of web development and version control using GitHub.
